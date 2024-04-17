@@ -1,4 +1,6 @@
-# Bundle-Adjusting Gaussian Splatting
+# 3D Gaussian Splatting for Real-Time Radiance Field Rendering (using results of PlanarSLAM)
+
+
 
 ## Funding and Acknowledgments
 
