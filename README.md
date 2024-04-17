@@ -3,9 +3,16 @@
 
 
 
-## Motivation: Why using results of PlanarSLAM
+## Motivation: Why use results of PlanarSLAM
 
 ![planar_points.PNG](assets%2Fplanar_points.PNG)
+
+**New Features of this type of input**
+<ol>
+<li> Points lying on the non-textured regions </li>
+<li> Global plane instances that are represented in different colors </li>
+<li> Surface normal vector of every point </li>
+</ol>
 
 ## Funding and Acknowledgments
 
