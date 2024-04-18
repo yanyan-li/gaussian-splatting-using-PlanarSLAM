@@ -1,7 +1,7 @@
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering (using results of PlanarSLAM)
 
 This repo is cloned from [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting). We add additional functions to read **Point Clouds**, **Camera Poses**, and **RGB Images** from results of PlanarSLAM. 
-
+**We hope more possibilities can be explored based on the new Point Clouds**.
 
 ## Motivation: Why use results of PlanarSLAM
 
